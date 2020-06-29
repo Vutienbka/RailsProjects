@@ -1,0 +1,6 @@
+Cach sua loi An error occurred while installing mysql2 (0.4.10), and Bundler cannot continue.
+Make sure that `gem install mysql2 -v '0.4.10' --source 'https://rubygems.org/'` succeeds before bundling.
+
+ sudo apt-get install libsqlite3-dev libmysqlclient-dev -y
+ sau do danh lenh
+bundle install
